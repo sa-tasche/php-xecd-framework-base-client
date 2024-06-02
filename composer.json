@@ -11,8 +11,8 @@
     "homepage": "http://www.xe.com",
     "license": "MPL-2.0",
     "require": {
-        "php": ">=5.6.0",
-        "guzzlehttp/guzzle": "^6.1"
+        "php": "^8",
+        "guzzlehttp/guzzle": "^7"
     },
     "suggest": {
         "symfony/serializer": "To serialize/deserialize using aspects",
